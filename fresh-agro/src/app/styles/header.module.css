@@ -1,0 +1,14 @@
+.banner {
+  background-image: url(../../../public/image/banner.png);
+
+  background-size: "cover";
+  background-position: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap");
+.caveat {
+  font-family: "Caveat", cursive;
+  font-weight: 600;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-shadow: 50px black;
+}
